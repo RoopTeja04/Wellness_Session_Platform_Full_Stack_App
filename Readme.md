@@ -78,6 +78,3 @@ PORT=5000
 ```
 VITE_API_URL=https://arvyax-backend.onrender.com/api
 ```
-
-## 📜 License
-This project is for educational purposes (Arvyax Full Stack Internship Assignment).
