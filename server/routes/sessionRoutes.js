@@ -1,6 +1,6 @@
 const express = require('express');
 const Session = require('../models/Session');
-const authMiddleware = require("../middleware/authMiddleware")
+const authMiddleware = require("../middleware/authmiddlewares")
 const router = express.Router();
 
 router.get('/', async (req, res) => {
